@@ -1,0 +1,15 @@
+{
+  "name": "cardScraper",
+  "version": "0.0.1",
+  "description": "....",
+  "main": "scraper.js",
+  "author": "Mikael Danielsson",
+  "license": "MIT",
+  "bin": "./bin/scraper",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "latest",
+    "node-file-loader": "^0.1.0",
+    "jsonfile": "latest"
+  }
+}
